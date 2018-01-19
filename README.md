@@ -1,5 +1,5 @@
 # Springboot WebApplication - MVC + JPA + MYSQL
-This application is an example for how implement a REST service with all endpoints. 
+This application is an example for how implement a RESTful service with all endpoints. 
 All endpoints are written in java in a MVC pattern.
 
 - This application offers 2 types front end, Android (java) and Web (angular.js)
