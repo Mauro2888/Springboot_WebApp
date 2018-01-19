@@ -1,5 +1,5 @@
 # Springboot WebApplication - MVC + JPA + MYSQL
-Springboot application with Rest Service and MySql database
+Springboot application with Rest Service and MySql database.
 This application is an example can implements a REST service with all endpoint. 
 All endpoints are writed in java in a MVC patter.
 
