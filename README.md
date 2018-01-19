@@ -7,4 +7,4 @@ All endpoints are written in java in a MVC pattern.
 - This application need JPA - MySQL - WebTool dependency inside pom.xml
 
 Android application repository are here :
-[link](https://github.com/Mauro2888/Springboot_WebApp)
+[ANDROID APPLICATION](https://github.com/Mauro2888/Springboot_WebApp)
