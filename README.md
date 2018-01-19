@@ -1,4 +1,4 @@
-# Springboot_WebApp
+# Springboot WebApplication - RESTapi with CRUD system.
 Springboot application with Rest Service and MySql database 
 
 - This application offers 2 types front end, Android (java) and Web (angular.js)
